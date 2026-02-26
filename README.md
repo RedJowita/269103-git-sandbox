@@ -35,9 +35,13 @@
    * Explain why it's essential for new engineers (in your own words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+
+Git Init: Initializes a program for a repository so the program will be usable (plus it doesn't override existing files)
+
+Git Merge: Combines the branches of your branch to changes made within another branch
 
 2. After one and a half years in the ISNE program, what advice would you give to prospective ISNE students? (Minimum 50 words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+
+When you learn about the git commands and different terminology, the way to learn about them is to play around with them. You can open up PowerShell or VS Code and just attempt see what you can do with the features so you can retain the information. It would also help to go along with the teacher, coding, while he is teaching the subject. Also, don't just read the slides but rewrite notes within a simpler format, since the human brain is more likely to learn and retain the information if taken the time to write it.
